@@ -1,0 +1,17 @@
+3ec2688b261884b4034d8c47fb7fb9a9 *DESCRIPTION
+0610870e68a73086e8f6d33c636fe97a *NAMESPACE
+4f88662c1b962a850a13dc8b451a6fe2 *R/RcppExports.R
+655d9ed9833e6b22a598c5876b76535a *R/matrix.R
+89b48f65a0c3eff9b711355a96c0d1f6 *README.md
+ad252a8b7726831efa1ba2a3cb9b76ff *build/partial.rdb
+9e0da403611f6dc25801419391cf0cbe *inst/include/SparseChol.h
+1910207e9866f3ec7379e3ea4d58378b *man/LDL_Cholesky.Rd
+8267a1c6b5a32b098f763fbe2b6c8854 *man/LL_Cholesky.Rd
+4e93dec317a0c463382ff87010f391fe *man/SparseChol-package.Rd
+9fe94568aa6a4e9e5bfec1af65475047 *man/sparse_D.Rd
+936a81fd94a2bd743635d6ac73e6d809 *man/sparse_L.Rd
+228089d9e45b6f0ff72c25ce967fa52b *man/sparse_chol.Rd
+61059660eb073d93e00e8ee054237071 *src/Makevars
+61059660eb073d93e00e8ee054237071 *src/Makevars.win
+ef411e554582bfe5e867c2bd2444b57d *src/RcppExports.cpp
+3c64a2775f7689ad74080004434f92eb *src/chol.cpp
