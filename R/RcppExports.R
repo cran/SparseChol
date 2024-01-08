@@ -50,6 +50,19 @@ sparse_chol <- function(mat) {
     .Call(`_SparseChol_sparse_chol`, mat)
 }
 
+#' AMD ordering
+#'
+#' AMD ordering
+#'
+#' @details
+#' Generates the approximate minimum degree ordering of the matrix for use in efficient
+#' Cholesky decomposition of PAP^T.
+#' @param mat A matrix
+#' @return A list with the permutation vector and it's inverse.
+amd_order <- function(mat) {
+    .Call(`_SparseChol_amd_order`, mat)
+}
+
 #' Generate sparse matrix representation of a matrix
 #' 
 #' Generate sparse matrix representation of a matrix
