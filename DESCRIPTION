@@ -2,8 +2,8 @@ Package: SparseChol
 Type: Package
 Title: Sparse Matrix C++ Classes Including Sparse Cholesky LDL
         Decomposition of Symmetric Matrices
-Version: 0.3.1
-Date: 2024-01-08
+Version: 0.3.2
+Date: 2024-12-07
 Authors@R: c(person("Sam", "Watson", email = "S.I.Watson@bham.ac.uk",
                   role = c("aut","cre")),
             person("Timothy A.", "Davis", role = c("aut","ctb")))
@@ -25,7 +25,7 @@ Biarch: true
 Depends: R (>= 3.4.0), Matrix (>= 1.3-4)
 SystemRequirements: GNU make
 Encoding: UTF-8
-Packaged: 2024-01-08 10:06:39 UTC; WatsonSI
+Packaged: 2024-12-08 18:41:54 UTC; WatsonSI
 Maintainer: Sam Watson <S.I.Watson@bham.ac.uk>
 Repository: CRAN
-Date/Publication: 2024-01-08 13:40:02 UTC
+Date/Publication: 2024-12-08 19:30:02 UTC
